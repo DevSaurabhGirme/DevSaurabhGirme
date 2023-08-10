@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **girmesaurabh09@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DkwwsBbQ_OH7i3Rr7Il3PMoO-u8lkIZw/view?usp=drive_link](https://drive.google.com/file/d/1DkwwsBbQ_OH7i3Rr7Il3PMoO-u8lkIZw/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1DkwwsBbQ_OH7i3Rr7Il3PMoO-u8lkIZw/view?usp=sharing](https://drive.google.com/file/d/1DkwwsBbQ_OH7i3Rr7Il3PMoO-u8lkIZw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

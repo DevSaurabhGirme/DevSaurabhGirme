@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Y. Girme</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on [a Customized Virtual File System](Projects/CVFS)
+- 🔭 I’m currently working on [a Customized Virtual File System](Projects/CVFS) and a website for an NGO
 
 - 🌱 I’m currently learning **Flutter, AWS**
 
